@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/GestionTareas.iml" filepath="$PROJECT_DIR$/GestionTareas.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/SGTP.iml" filepath="$PROJECT_DIR$/SGTP.iml" />
+>>>>>>> f35feb7d59fd4e04846bfbdc0bcff4484bad8997
     </modules>
   </component>
 </project>
